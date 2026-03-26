@@ -2,6 +2,12 @@
 
 # Welcome!
 
+Numerical Methods in Plasma Physics (NMPP) Established in 2012, the Division is developing new computational methods for fusion research.
+
+[Here](https://nmpp-hub.github.io/) is a link to our landing page, which contains an overview of the codes codes and libraries have been developed by members of NMPP, as well as publications, dissertations, and team members.
+
+Here is a useful list of some of our open source projects:
+
 - [BSL6D](https://gitlab.mpcdf.mpg.de/bsl6d/bsl6d)
 - [Fluxo](https://github.com/project-fluxo/fluxo)
 - [HOPR](https://github.com/project-fluxo/hopr)
@@ -13,3 +19,4 @@
 - [JuliaRCM](https://github.com/JuliaRCM)
 - [PSYDAC](https://github.com/pyccel/psydac)
 - [Struphy](https://github.com/struphy-hub/struphy)
+
