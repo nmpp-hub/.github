@@ -12,6 +12,7 @@ Here is a useful list of some of our open source projects:
 - [Fluxo](https://github.com/project-fluxo/fluxo)
 - [HOPR](https://github.com/project-fluxo/hopr)
 - [hyper.deal](https://github.com/hyperdeal/hyperdeal)
+- [GEMPICX](https://github.com/NMPPMaxPlanck/GEMPICX)
 - [GVEC](https://github.com/gvec-group/gvec) 
 - [GYSELALIBxx](https://github.com/gyselax/gyselalibxx)
 - [JuliaVlasov](https://github.com/JuliaVlasov)
